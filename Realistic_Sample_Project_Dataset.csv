@@ -1,0 +1,21 @@
+product_url,product_name,review,manual,model_prediction,reason
+https://www.amazon.in/dp/B08L5V5SB9,Samsung Galaxy M31,Great phone with amazing battery life and screen quality.,accept,accept,Review relates directly to product quality.
+https://www.flipkart.com/p/grocery/grocery-corn-flakes/p/itm24,Kellogg's Corn Flakes,Corn Flakes were fresh and crunchy. Good packaging as well.,accept,accept,Review pertains to the product's attributes.
+https://www.meesho.com/dresses/p/xyz123,Women's Floral Dress,"Beautiful dress, fabric is comfortable, but sizing was an issue.",accept,accept,Relevant complaint about product fit.
+https://www.jiomart.com/p/electronics/xyz456,LG Smart TV 43-inch,Remote control isn't working correctly.,accept,accept,Valid complaint about product issue.
+https://www.amazon.in/dp/B09878JG54,Nescafe Classic Coffee,"Wrong product received, ordered coffee but received tea.",accept,accept,Relevant complaint about delivery error.
+https://www.flipkart.com/p/clothing/shoes/p/itm57,Men's Sports Shoes,"Doesn't match the product shown, color and size both different.",accept,accept,Relevant feedback on product differences.
+https://www.amazon.in/dp/B08XYJXW47,Bose SoundLink Speaker,"Bose speakers are amazing, but got a scratched one.",accept,accept,Valid complaint about product condition.
+https://www.jiomart.com/p/home-furnishing/abc123,Home Essence Bedsheet,Ordered this bedsheet and it was quite different from what was shown.,reject,reject,Product mismatch with description.
+https://www.flipkart.com/p/beauty/cream/p/itm47,Nivea Body Lotion,"Just like using Dove, not a fan of the texture.",reject,reject,Incorrect product mentioned.
+https://www.meesho.com/toys/p/xyz890,RC Racing Car,"Amazing speed, battery lasts long! Kids loved it.",accept,accept,Positive feedback relevant to product.
+https://www.amazon.in/dp/B0849HRW8T,Apple AirPods Pro,"Earbuds not connecting to my Samsung phone, very disappointed.",accept,accept,Complaint related to compatibility issue.
+https://www.flipkart.com/p/food/xyz159,Cadbury Dairy Milk Chocolate,"Received melted chocolate, had to throw it out.",accept,accept,Complaint about product's condition.
+https://www.meesho.com/bags/p/abc456,Leather Sling Bag,Strap broke after one week of use.,accept,accept,Complaint about durability.
+https://www.jiomart.com/p/kitchen/def789,Prestige Gas Stove,Ordered Prestige but got a generic brand.,reject,reject,Product mismatch with description.
+https://www.amazon.in/dp/B07Q9GVHP8,Realme X2 Smartphone,Mentioned as OnePlus phone but description says Realme.,reject,reject,Incorrect product referenced.
+https://www.flipkart.com/p/grocery/xyz123,Tata Salt,Great salt for cooking!,accept,accept,Positive feedback related to product.
+https://www.meesho.com/sarees/p/def789,Traditional Silk Saree,"Nice saree, quality was good, my mother loved it.",accept,accept,Positive product-related feedback.
+https://www.jiomart.com/p/electronics/ghi456,Phillips Hair Dryer,"Dryer stopped working after a week, very disappointed.",accept,accept,Complaint related to product defect.
+https://www.flipkart.com/p/toys/xyz456,Barbie Doll Set,"Beautiful set, my daughter is super happy with it.",accept,accept,Positive feedback about product.
+https://www.amazon.in/dp/B09DMRMTXN,Sony Bravia 55-inch TV,"Thought it was an LG TV, totally different experience with Sony.",reject,reject,Incorrect product mentioned in review.
